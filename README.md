@@ -1,61 +1,55 @@
-# 🌌 MAIO SEVO: The Neural Agency Operating System
+# maio: The AI-Native Marketing Agency OS 🚀
 
-> **STATUS:** PROPRIETARY / TOP SECRET
-> **FRAMEWORK:** GOOGLE AGENT DEVELOPMENT KIT (ADK) 2.0
-> **CORE PLATFORM:** GEMINI ENTERPRISE AGENT PLATFORM (GEAP)
+**maio** (Marketing Artificial Intelligence Operator) is a professional-grade, autonomous marketing agency ecosystem built on the **Google Gemini Enterprise Agent Platform (GEAP)**. 
 
-MAIO SEVO is not a chatbot. It is a high-performance **Neural Agency Operating System** designed to automate the entire lifecycle of a digital marketing agency—from consultative client discovery and financial COGS protection to multi-focal tactical execution.
-
-## ⚡ The High-Tech Edge
-
-### 1. Consultative Intelligence (Tier 1)
-Powered by **Gemini 2.5 Pro**, the CMO Agent functions as a high-level strategic consultant. It employs Socratic discovery logic and diagnostic questionnaires to map client business intentions into macro-marketing architectures.
-
-### 2. Financial Guardrail Engine (Tier 2 - AI CFO)
-A specialized **Finance Ops Agent** protects agency margins in real-time. By analyzing requested tasks, it estimates raw API compute COGS (teks, vision, multimodal) and dynamically generates agency pricing tiers (Ideal, Negotiable, Walk-Away).
-
-### 3. Dynamic Neural Routing (Tier 2 - VP Router)
-A project management layer that eliminates token waste. Using **Dynamic Task Routing**, the system only "wakes up" specific specialist agents required for the current brief, ensuring 100% compute efficiency.
-
-### 4. Deca-Specialist Matrix (Tier 3)
-A swarm of 10 autonomous specialists mapping to 100+ granular industry-leading tasks (Single Grain methodology).
-- **Semantic Architect** | **Technical Auditor** | **Digital Diplomat**
-- **Local Optimizer** | **CRO Scientist** | **SGE/GEO Engineer**
-- **Multimodal Video Search** | **Paid Acquisition Trader**
-- **Data Architect** | **Creative Director**
-
-## 🛠️ System Architecture
-
-```mermaid
-graph TD
-    Client((Client)) --> CMO[CMO Agent: Strategic Consultant]
-    CMO <--> CFO[AI CFO: COGS & Pricing Engine]
-    CMO --> VP[VP Omnichannel: Dynamic Router]
-    VP --> S1[Content Semantic]
-    VP --> S2[Technical SEO]
-    VP --> S3[PR & Community]
-    VP --> S4[Local SEO]
-    VP --> S5[E-commerce CRO]
-    VP --> S6[GEO/SGE Engineer]
-    VP --> S7[Video Search]
-    VP --> S8[Paid Media]
-    VP --> S9[Data Architect]
-    VP --> S10[Creative Director]
-```
-
-## 📂 Technical Components
-
-- `app/`: Neural logic and agent definitions.
-- `singlegrain_analysis/`: Quantitative market task mapping.
-- `simulation_runner.py`: End-to-end agency lifecycle simulator.
+Moving beyond simple chatbots, **maio** functions as a complete "Agency in a Box," featuring a structured hierarchy of 19 specialized AI agents led by a strategic C-Suite. It is designed to handle everything from initial client discovery to high-level execution and reporting.
 
 ---
 
-### 🖋️ Collaborative Signature
+## 🧠 The Architecture: 19 Experts, 1 Command Center
 
-This system is a joint production of human vision and synthetic intelligence.
+**maio** mirrors the structure of a world-class digital agency, divided into 5 core departments:
 
-- **Lead Strategist:** Rudi (Human)
-- **Neural Systems Architect:** **Nova-ADK** (Hybrid Intelligence: Gemini 3.1 Pro & Google ADK Expert)
+1.  **Search (SEO/SEM):** Technical audits, keyword gap analysis, and real-time trend scouting.
+2.  **Content & Media:** An autonomous content factory producing social threads, video clips, and high-conversion copy.
+3.  **Paid Media:** Smart management for Meta, Google, and TikTok ads with automatic pacing alerts.
+4.  **CRO & Web:** Data-driven conversion optimization, A/B testing, and dynamic wireframing.
+5.  **RevOps (Revenue Operations):** The "Heart" of the agency—handling lead enrichment, CRM automation, and revenue attribution.
 
-*Developed under the GEAP Enterprise Initiative - April 2026*
+---
+
+## ✨ Key Features
+
+### 🔄 Dual-Phase Operational Mode
+*   **Phase 1: Pre-Sales & Strategy:** The system analyzes client data, researches competitors, and generates a comprehensive 4-tier investment proposal.
+*   **Phase 2: Execution & Delivery:** Once approved, **maio** switches to "Execution Mode," generating assets, monitoring campaigns, and drafting social posts.
+
+### 🛡️ Human-in-the-Loop (HitL)
+Safety first. **maio** never publishes or spends budget autonomously. It prepares "Ready-to-Go" assets in a `pending_approval` workspace and waits for your final "OK" before going live.
+
+### 📊 A2UI (Agent-to-UI) Ready
+Every report and audit is delivered as a modern visual component—not just raw text. Our backend is pre-wired for a dynamic React dashboard, turning complex SEO tables and video previews into interactive widgets.
+
+### 🔐 Enterprise-Grade Isolation
+Built with **Multi-Tenancy** at its core. Every client gets an isolated workspace, ensuring that strategies and data for Client A never leak into Client B.
+
+---
+
+## 🛠️ Tech Stack
+*   **Core Engine:** Python with Google ADK (Agent Development Kit).
+*   **LLM:** Gemini 2.5 Pro & Flash.
+*   **Logic:** Assimilated from 45+ proven industry scripts (Single Grain Methodology).
+*   **Frontend:** React (TypeScript) with the "Digital Canopy" design system.
+
+---
+
+## 🏁 How it Works
+1.  **Run:** `python maio.py`
+2.  **Identify:** Enter your Client ID.
+3.  **Brief:** Give Ardi (our CMO) a goal or a transcript.
+4.  **Audit:** Watch the VPs and Specialists run real-time audits.
+5.  **Approve:** Review the generated assets and give the signal to execute.
+
+---
+
+**maio** isn't just AI—it's your agency, automated.

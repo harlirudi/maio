@@ -198,3 +198,17 @@ my_env.tfvars
 
 # A2A Inspector
 tools/a2a-inspector/
+
+# --- MAIO Specific Ignores ---
+workspaces/
+ericosiu_skills/
+web_harness/
+docs/assets/
+docs/learning_logs/
+session_*.md
+*.mp4
+*.wav
+*.mp3
+*.log
+!geap-agency-core/app/app_utils/converters/*.json
+
